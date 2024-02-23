@@ -1,0 +1,5 @@
+run watch mode : tsc file.ts --w 
+
+tạo file tsconfig.json : tsc --init 
+
+compile many file : tsc 
